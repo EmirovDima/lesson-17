@@ -1,0 +1,65 @@
+.body {
+  margin: 0;
+  padding: 0;
+}
+.logo {
+  font-size: 40px;
+  font-family: "Roboto Slab", serif;
+  margin-top: -340px;
+}
+.header {
+  padding: 30px;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-family: "Merriweather", serif;
+  margin-right: 40px;
+  margin-top: 45px;
+  background-color: black;
+  height: 430px;
+  color: white;
+}
+.main-menu {
+  text-decoration: none;
+  color: black;
+  margin-right: 30px;
+  font-family: "Nunito", sans-serif;
+  margin-right: 30px;
+  margin-top: -25px;
+  color: white;
+}
+.mu {
+  text-align: center;
+}
+.men {
+  text-align: center;
+  margin-top: 110px;
+}
+.button {
+  text-decoration: none;
+  margin-top: -250px;
+  color: black;
+  border: 2px solid rgb(255, 255, 0);
+  font-size: 18px;
+  color: white;
+  margin-top: -350px;
+}
+.main-text {
+  text-align: center;
+}
+.fyp {
+  display: flex;
+  margin-right: 30px;
+  margin-left: 40px;
+  margin-top: 30px;
+  width: 50px;
+  height: 40px;
+  color: white;
+}
+.trew {
+  display: flex;
+  justify-content: center;
+  margin-top: 80px;
+  margin-left: -80px;
+}
